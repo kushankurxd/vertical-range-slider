@@ -1,24 +1,7 @@
-# vertical-range-slider
+# Vertical Range Slider
 
-## Project setup
-```
-yarn install
-```
+An svg driven light-weight slider using vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### preview
+![image](https://user-images.githubusercontent.com/37204706/111758670-c8461080-88c2-11eb-97f7-0ab7b0fe081f.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
